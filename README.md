@@ -3,15 +3,15 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/slaisha/power-bi-cohort-analysis">
-    <img src="images/orders-order-svgrepo-com.svg" alt="Logo" width="80" height="80">
+  <a href="https://github.com/slaisha/power-bi-finance-salon">
+    <img src="images/budget.svg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Subscriber Insights: Gaming Cohort Analysis Dashboard</h3>
 
   <p align="center">
 
-This suite of Power BI dashboards equips Omlet Game Studio with essential tools to track key metrics like retention, churn, and reactivations, offering a detailed look at subscriber engagement.
+This comprehensive dashboard is designed to provide detailed insights into the financial performance of Lotus Wellness salons across various locations. It focuses on profit and loss metrics to help stakeholders understand the financial health of the business and identify areas for improvement.
 
   </p>
 </div>
@@ -36,7 +36,9 @@ This suite of Power BI dashboards equips Omlet Game Studio with essential tools 
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-The Power BI Gaming Subscriber Insights Dashboards for Omlet Game Studio are specifically designed to analyze and visualize subscriber behavior in the gaming industry. Leveraging the comprehensive capabilities of Power BI, the project transforms complex data into clear, actionable insights, aiding stakeholders in boosting player engagement and retention. This strategic resource empowers teams to make informed decisions that enhance loyalty and drive growth in the competitive gaming landscape.
+The Lotus Wellness Financial P&L Dashboard is an essential tool for managing and understanding the financial performance of Lotus Wellness salons across various locations. This project aims to provide a clear and detailed view of the profit and loss metrics, enabling stakeholders to make informed decisions and identify opportunities for growth and efficiency improvements. 
+
+The dashboard covers multiple aspects of financial performance, including revenue analysis, expense breakdown, and profit and loss summaries. By integrating data from all salon locations, the dashboard offers a comprehensive overview of the financial health of the business, highlighting key areas that require attention and optimization.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -44,9 +46,10 @@ The Power BI Gaming Subscriber Insights Dashboards for Omlet Game Studio are spe
 
 ### Built With
 ###### Data Sources and Tools
-* **Power BI**: The primary tool for data visualization and dashboard creation, featuring advanced capabilities for interactive and real-time analysis.
-* **BigQuery**: Utilized for processing and analyzing large datasets, taking advantage of its powerful data warehousing features.
-* **dbt (data build tool)**: Employed for transforming data in the warehouse, enabling efficient and scalable analytics workflows.
+* **Power BI**: The main tool for data visualization and dashboard creation, offering advanced features for interactive and real-time analysis.
+* **Snowflake**: Used for processing and analyzing large datasets, leveraging its robust data warehousing capabilities.
+* **dbt (data build tool)**: Used for transforming data within the warehouse, supporting efficient and scalable analytics workflows.
+
 
 
 <!-- 
@@ -66,12 +69,13 @@ The Power BI Gaming Subscriber Insights Dashboards for Omlet Game Studio are spe
 ## Screenshots
 
 
-- **Overview Title Page**: Introduces the main subscriber metrics in a comprehensive dashboard.
-- **Active Subscribers**: Displays the count and details of active subscribers on the platform.
-- **Retention Rate**: Highlights the proportion of subscribers who remain active over time.
-- **Net Churn Rate**: Illustrates the balance between new subscribers and those who have discontinued their service.
-- **Deactivations**: Provides insights into the number of deactivations, along with timing and trends.
-- **Reactivations**: Shows data on subscribers who have reactivated their accounts, assessing the success of re-engagement efforts.
+**Financial P&L Dashboard Overview**: A detailed dashboard focused on the salon's profit and loss metrics.
+- **Balanced Scorecard**: Summarizes key financial indicators such as revenue, expenses, and net profit.
+- **Revenue Analysis**: Tracks revenue streams over time and identifies trends in client spending.
+- **Expense Breakdown**: Details the salon's major expenses, helping to pinpoint areas for cost reduction.
+- **Profit and Loss Summary**: Provides a clear view of the financial health by comparing current profits and losses to previous periods.
+- **Trend Analysis**: Analyzes year-over-year and month-over-month financial performance to gauge growth and sustainability.
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -80,61 +84,61 @@ The Power BI Gaming Subscriber Insights Dashboards for Omlet Game Studio are spe
 <div align="center">
 
 <!-- Image with GitHub Link -->
-<b>Cohort Analysis Overview</b> (1/6) 
+<b>Financial Performance Overview</b> (1/6) 
 
 <div>
-  <a href="https://github.com/slaisha/power-bi-cohort-analysis/blob/master/images/Product-Cohort-Analysis-1.png">
-    <img src="images/Product-Cohort-Analysis-1.png" style="max-width: 100%; height: auto;">
+  <a href="https://github.com/slaisha/power-bi-finance-salon/blob/master/images/Financial-Package-1.png">
+    <img src="images/Financial-Package-1.png" style="max-width: 100%; height: auto;">
   </a>
 </div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-<b>Active Subscribers</b>  (2/6) 
+<b>Balanced Scorecard</b>  (2/6) 
 <p>
 <!-- Image with GitHub Link -->
 <div>
-  <a href="https://github.com/slaisha/power-bi-cohort-analysis/blob/master/images/Product-Cohort-Analysis-2.png">
-    <img src="images/Product-Cohort-Analysis-2.png" style="max-width: 100%; height: auto;">
+  <a href="https://github.com/slaisha/power-bi-finance-salon/blob/master/images/Financial-Package-2.png">
+    <img src="images/Financial-Package-2.png" style="max-width: 100%; height: auto;">
   </a>
 </div>
 <p align="right">(<a href="#top">back to top</a>)</p>
-<b>Retention Rate</b>  (3/6) 
+<b>Revenue Trend Analysis</b>  (3/6) 
 <p>
 <!-- Image with GitHub Link -->
 <div>
-  <a href="https://github.com/slaisha/power-bi-cohort-analysis/blob/master/images/Product-Cohort-Analysis-3.png">
-    <img src="images/Product-Cohort-Analysis-3.png" style="max-width: 100%; height: auto;">
+  <a href="https://github.com/slaisha/power-bi-finance-salon/blob/master/images/Financial-Package-3.png">
+    <img src="images/Financial-Package-3.png" style="max-width: 100%; height: auto;">
   </a>
 </div>
 <p align="right">(<a href="#top">back to top</a>)</p>
-<b>Net Churn Rate</b>  (4/6) 
+<b>Profit & Loss Statement</b>  (4/6) 
 <p>
 <!-- Image with GitHub Link -->
 <div>
-  <a href="https://github.com/slaisha/power-bi-cohort-analysis/blob/master/images/Product-Cohort-Analysis-4.png">
-    <img src="images/Product-Cohort-Analysis-4.png" style="max-width: 100%; height: auto;">
+  <a href="https://github.com/slaisha/power-bi-finance-salon/blob/master/images/Financial-Package-4.png">
+    <img src="images/Financial-Package-4.png" style="max-width: 100%; height: auto;">
   </a>
 </div> 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- Image with GitHub Link -->
-<b>Deactivations</b>  (5/6) 
+<b>Average Comparison: Corporate vs Area</b>  (5/6) 
 <p>
 <div>
-  <a href="https://github.com/slaisha/power-bi-cohort-analysis/blob/master/images/Product-Cohort-Analysis-5.png">
-    <img src="images/Product-Cohort-Analysis-5.png" style="max-width: 100%; height: auto;">
+  <a href="https://github.com/slaisha/power-bi-finance-salon/blob/master/images/Financial-Package-5.png">
+    <img src="images/Financial-Package-5.png" style="max-width: 100%; height: auto;">
   </a>
 </div>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- Image with GitHub Link -->
-<b>Reactivations</b>  (6/6)
+<b>YOY Variance</b>  (6/6)
 <p>
 <div>
-  <a href="https://github.com/slaisha/power-bi-cohort-analysis/blob/master/images/Product-Cohort-Analysis-6.png">
-    <img src="images/Product-Cohort-Analysis-6.png" style="max-width: 100%; height: auto;">
+  <a href="https://github.com/slaisha/power-bi-finance-salon/blob/master/images/Financial-Package-6.png">
+    <img src="images/Financial-Package-6.png" style="max-width: 100%; height: auto;">
   </a>
 </div>
 <p align="right">(<a href="#top">back to top</a>)</p>
