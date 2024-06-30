@@ -7,7 +7,7 @@
     <img src="images/budget.svg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Subscriber Insights: Gaming Cohort Analysis Dashboard</h3>
+<h3 align="center">Wellness Salon - Financial P&L Dashboard</h3>
 
   <p align="center">
 
