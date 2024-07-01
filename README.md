@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/slaisha/power-bi-finance-salon">
-    <img src="images/budget.svg" alt="Logo" width="80" height="80">
+    <img src="images/Financial Thumbnail.png" alt="Logo" width="450">
   </a>
 
 <h3 align="center">Wellness Salon - Financial P&L Dashboard</h3>
